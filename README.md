@@ -1,3 +1,3 @@
 This project has been deprecated.
 
-See https://github.com/pairboard/pairboard for active development.
+Please see https://github.com/pairboard/pairboard for active development.
